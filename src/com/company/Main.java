@@ -11,11 +11,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Chapter03 chapter03 = new Chapter03();
-
-        chapter03.rawOfLargeNumbers();
-
-
 
     }
 }
